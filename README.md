@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
-# NecoJobs
+## NecoJobs
 
 Welcome to this repository!  
 
