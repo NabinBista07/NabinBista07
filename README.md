@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I’m **Nabin Bista**, working as a **Digital Marketer** at NecoJobs.
+I’m **Nabin**, working as a **Digital Marketer** at NecoJobs.
 
 At NecoJobs, we provide the latest updates on **jobs, career opportunities, and training courses in Nepal**.  
 
